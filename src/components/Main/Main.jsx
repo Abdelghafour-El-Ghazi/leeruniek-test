@@ -1,5 +1,5 @@
-import { Table, Badge, Menu, Dropdown } from "antd";
-import { PLAN, CATEGORIES, NOTES } from "../../data/data";
+import { Table } from "antd";
+import { CATEGORIES, NOTES } from "../../data/data";
 
 import "antd/dist/antd.css";
 
